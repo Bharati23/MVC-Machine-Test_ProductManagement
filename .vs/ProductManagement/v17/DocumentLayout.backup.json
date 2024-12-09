@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\productmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\models\\paginatedproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\models\\paginatedproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Migrations\\20241209030542_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductManagement\\Migrations\\20241209030542_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|c:\\users\\bharati wakchaure\\source\\repos\\productmanagement\\productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B47AABF1-06DD-4E61-9895-1CA6E851DBD8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T05:31:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManagement",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductManagement.csproj",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeToolTip": "ProductManagement\\ProductManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T05:31:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:45:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:44:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:39:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagement",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductManagement.csproj",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeToolTip": "ProductManagement\\ProductManagement.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T03:01:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeToolTip": "ProductManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:55:22.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:03:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T03:11:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T03:12:20.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:29:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:41:22.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:10:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:07:32.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\PaginatedProductViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Models\\PaginatedProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\PaginatedProductViewModel.cs",
+              "RelativeToolTip": "ProductManagement\\Models\\PaginatedProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:28:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ProductManagement\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T03:10:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241209030542_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Migrations\\20241209030542_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Migrations\\20241209030542_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Migrations\\20241209030542_InitialCreate.cs",
+              "RelativeToolTip": "ProductManagement\\Migrations\\20241209030542_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:05:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Models\\Category.cs",
+              "RelativeToolTip": "ProductManagement\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:02:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:01:41.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bharati Wakchaure\\source\\repos\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeToolTip": "ProductManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T02:57:35.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

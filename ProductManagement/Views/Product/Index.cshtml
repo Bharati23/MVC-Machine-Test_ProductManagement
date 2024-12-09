@@ -1,0 +1,45 @@
+﻿@model ProductCategoryApp.Models.PaginatedProductViewModel
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>Product List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProductId</th>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Items)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.ProductName</td>
+                <td>@product.Category?.CategoryName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+            </li>
+        }
+    </ul>
+</div>
+<div>
+    <a asp-action="Create" class="btn btn-primary">Add New Product</a>
+</div>
